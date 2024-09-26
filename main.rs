@@ -1,3 +1,3 @@
 fn main() {
-  println!("Current date and time: {}", "2024-09-26 09:00:00 WIB");
+  println!("Current date and time: {}", "2024-09-27 00:00:00 WIB");
 }
